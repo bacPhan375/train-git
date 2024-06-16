@@ -3,7 +3,9 @@ using namespace std;
 
 int main(){
   int x = 0 ; 
-  cout <<"hello moi người "<<endl ; 
+  // cout <<"hello moi người "<<endl ; 
+  cout <<"co su thay doi moi" ; 
+  cout <<"thay doi nay hoi bi nhieu do";
   cout <<"thay doi moi"; 
   int a = 0 ; 
   int b =0; 
