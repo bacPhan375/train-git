@@ -2,5 +2,5 @@
 using namespace std;
 
 int main(){
- int i =4 ;
+  int 1;
 }
