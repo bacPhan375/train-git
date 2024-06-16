@@ -8,6 +8,6 @@ int main(){
   cin >> a; 
   cout <<"nhap b:"<<endl;
   cin >> b;
-  cout <<"tong a va b: "<< a+b<<endl;
+  cout <<"tong a va b: "<< a*b<<endl;
   return 0;
 }
