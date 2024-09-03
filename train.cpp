@@ -7,6 +7,7 @@ int main(){
   cout <<"co su thay doi moi" ; 
   cout <<"thay doi nay hoi bi nhieu do";
   cout <<"thay doi moi"; 
+   cout <<"tong a va b: "<< a*b<<endl;
   int a = 0 ; 
   int b =0; 
   cout <<"nhap a:"<<endl;
@@ -16,5 +17,7 @@ int main(){
   cout <<"nhap b:"<<endl;
   cin >> b;
   cout <<"tong a va b: "<< a*b<<endl;
+   cout <<"tong a va b: "<< a*b<<endl;
+    cout <<"tong a va b: "<< a*b<<endl;
   return 0;
 }
